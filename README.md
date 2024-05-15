@@ -20,5 +20,7 @@ In my profile, you'll find a collection of my personal projects where I've explo
 
 - [LinkedIn](https://www.linkedin.com/in/dmytro-khodatskyi-21a734256)
 - [GitHub](https://github.com/khodatskyi)
+- [Telegram](https://t.me/khodatskyi)
+
 
 If you have any questions or just want to connect, feel free to reach out! I'm always excited to engage with fellow developers and explore new opportunities.
