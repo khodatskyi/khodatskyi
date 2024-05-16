@@ -18,7 +18,7 @@ In my profile, you'll find a collection of my personal projects where I've explo
 
 ## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/dmytro-khodatskyi-21a734256)
+- [LinkedIn](https://www.linkedin.com/in/khodatskyi/)
 - [GitHub](https://github.com/khodatskyi)
 - [Telegram](https://t.me/khodatskyi)
 
