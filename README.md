@@ -6,7 +6,7 @@ I'm a highly motivated software developer passionate about creating innovative s
 
 ## My Skills
 
-- **Frontend Development**: Angular, HTML, CSS/SCSS, JavaScript/TypeScript
+- **Frontend Development**: JavaScript/TypeScript, Angular, HTML, CSS/SCSS
 - **UI/UX Design**: Figma, creating attractive and user-friendly interfaces
 - **API Integration**: Working with external APIs, including Unsplash and Pexels
 - **Version Control**: Git, managing project versions and collaborative development
